@@ -1,4 +1,3 @@
-# Decision-Tree-Implementation
 # Decision Tree Classification using Iris Dataset
 
 ## Objective
